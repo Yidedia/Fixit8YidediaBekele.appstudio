@@ -16,7 +16,25 @@
         "forms",
         "membership",
         "Elements",
-        "inptFirstName.json"
+        "memberInput.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "memSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "membership",
+        "Elements",
+        "memLabel.json"
       ]
     }
   ],

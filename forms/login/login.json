@@ -36,6 +36,15 @@
         "Elements",
         "btnSubmit.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "login",
+        "Elements",
+        "membtn.json"
+      ]
     }
   ],
   "class": "",
