@@ -14,45 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "calculator",
         "Elements",
-        "inptAccount.json"
+        "num1Bt.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "calculator",
         "Elements",
-        "inptPassword.json"
+        "calcLb.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "calculator",
         "Elements",
-        "btnSubmit.json"
+        "num2Bt.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "calculator",
         "Elements",
-        "membtn.json"
+        "addBt.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "calculator",
         "Elements",
-        "calculatorBt.json"
+        "multiplyBt.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "answerLb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "calculator",
+        "Elements",
+        "clearBt.json"
       ]
     }
   ],
@@ -62,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "login",
+  "id": "calculator",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -75,8 +93,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",

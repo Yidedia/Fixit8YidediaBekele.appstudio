@@ -27,14 +27,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "membership",
-            "membership.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "login",
             "login.json"
           ]
@@ -45,6 +37,22 @@
             "forms",
             "welcome",
             "welcome.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "membership",
+            "membership.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculator",
+            "calculator.json"
           ]
         }
       ],

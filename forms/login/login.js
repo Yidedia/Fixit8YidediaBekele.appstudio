@@ -15,3 +15,7 @@ btnSubmit.onclick=function(){
 membtn.onclick=function(){
   ChangeForm(membership)
 }
+
+calculatorBt.onclick=function(){
+  ChangeForm(calculator)
+}
