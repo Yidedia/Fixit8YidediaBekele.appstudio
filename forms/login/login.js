@@ -19,3 +19,7 @@ membtn.onclick=function(){
 calculatorBt.onclick=function(){
   ChangeForm(calculator)
 }
+
+twoControlsBt.onclick=function(){
+  ChangeForm(twoControls)
+}
