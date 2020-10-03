@@ -1,4 +1,4 @@
-/*
+
 let accountName = ""
 
 btnSubmit.onclick=function(){
@@ -11,4 +11,15 @@ btnSubmit.onclick=function(){
     inptAccount.value = ""
     inptPassword.value = ""
 }
-*/
+ 
+membtn.onclick=function(){
+  ChangeForm(membership)
+}
+
+calculatorBt.onclick=function(){
+  ChangeForm(calculator)
+}
+
+twoControlsBt.onclick=function(){
+  ChangeForm(twoControls)
+}

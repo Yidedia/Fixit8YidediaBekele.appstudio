@@ -14,54 +14,36 @@
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "twoControls",
         "Elements",
-        "inptAccount.json"
+        "sportRb.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "twoControls",
         "Elements",
-        "inptPassword.json"
+        "Label1.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "twoControls",
         "Elements",
-        "btnSubmit.json"
+        "menuHb.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "login",
+        "twoControls",
         "Elements",
-        "membtn.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "login",
-        "Elements",
-        "calculatorBt.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "login",
-        "Elements",
-        "twoControlsBt.json"
+        "Label2.json"
       ]
     }
   ],
@@ -71,7 +53,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "login",
+  "id": "twoControls",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -84,8 +66,6 @@
   "parentForm": "",
   "position": "absolute",
   "script": null,
-  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
-  "scrolling": "false",
   "setFocusID": "",
   "style": "",
   "theme": "",
